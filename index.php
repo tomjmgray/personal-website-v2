@@ -252,8 +252,8 @@ https://templatemo.com/tm-543-breezed
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="row">
-                        <img class="d-block w-50" src="assets/images/ProjectImages/OChatOne.png" alt="First slide">
-                        <img class="d-block w-50" src="assets/images/ProjectImages/OChatTwo.png" alt="First slide">
+                        <img class="d-block w-50" src="https://i.imgur.com/JnB2NSr.png" alt="First slide">
+                        <img class="d-block w-50" src="https://i.imgur.com/ziTdmD4.png" alt="First slide">
                     </div>
                     
                     <div>

@@ -1691,3 +1691,11 @@ portfolio
   padding: 20px;
 }
 
+#projects {
+  height: 70vh;
+  margin-bottom: 10vh;
+}
+
+/* .carousel {
+  min-height: 90%;
+} */
